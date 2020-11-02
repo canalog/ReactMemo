@@ -6,7 +6,7 @@ export class Home extends Component {
   render () {
     return (
       <div>
-        <h1>안녕하세요</h1>
+        <h1>안녕하세요. 리액트 앱</h1>
       </div>
     );
   }
